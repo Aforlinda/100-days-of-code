@@ -3,7 +3,9 @@ line2 = ["⬜️","⬜️","️⬜️"]
 line3 = ["⬜️️","⬜️️","⬜️️"]
 map = [line1, line2, line3]
 print("Hiding your treasure! X marks the spot.")
-position = input("Where do you want to put the treasure? ") 
+position = input("Take a good look at the the grid provided. Use the grid to provide spot description of \
+where you want hide your treasure. You can choose either A, B or C and 1, 2 or 3 for a spot. Where do you \
+want to put the treasure? ") 
 # 🚨 Don't change the code above 👆
 # Write your code below this row 👇
 
